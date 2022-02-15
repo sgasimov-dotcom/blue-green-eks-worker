@@ -1,1 +1,0 @@
-# blue-green-eks-worker
